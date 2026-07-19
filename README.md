@@ -63,3 +63,7 @@ Open:
 ```text
 http://localhost:8765
 ```
+
+### Admin Login
+- Email Address: admin01@reclaim.com
+- Password: admin123
