@@ -1,0 +1,107 @@
+.page-header{
+    margin-bottom:25px;
+}
+
+.page-header h3{
+    font-weight:600;
+    color:#081f4d;
+}
+
+.report-card{
+    border:none;
+    border-radius:18px;
+    box-shadow:0 8px 20px rgba(0,0,0,.06);
+}
+
+.report-card .card-body{
+    padding:30px;
+}
+
+.form-label{
+    font-weight:500;
+    margin-bottom:8px;
+}
+
+.form-control,
+.form-select{
+    border-radius:12px;
+    min-height:48px;
+}
+
+textarea.form-control{
+    min-height:120px;
+}
+
+.action-area{
+    margin-top:25px;
+    display:flex;
+    gap:15px;
+}
+
+.submit-btn{
+    padding:12px 30px;
+    border-radius:12px;
+}
+
+.cancel-btn{
+    padding:12px 30px;
+    border-radius:12px;
+}
+
+/* MY REPORTS */
+
+.report-table-card{
+    background:#fff;
+    border-radius:18px;
+    padding:25px;
+    box-shadow:0 8px 20px rgba(0,0,0,.06);
+}
+
+.report-table-card table{
+    margin-top:15px;
+}
+
+.report-table-card th{
+    font-weight:600;
+    color:#081f4d;
+}
+
+.status-pending{
+    background:#fff3cd;
+    color:#856404;
+    padding:6px 12px;
+    border-radius:20px;
+}
+
+.status-approved{
+    background:#d4edda;
+    color:#155724;
+    padding:6px 12px;
+    border-radius:20px;
+}
+
+.status-rejected{
+    background:#f8d7da;
+    color:#721c24;
+    padding:6px 12px;
+    border-radius:20px;
+}
+
+.search-bar{
+    display:flex;
+    gap:15px;
+    margin-bottom:20px;
+}
+
+.search-bar input{
+    flex:1;
+}
+
+.action-btn{
+    display:flex;
+    gap:10px;
+}
+
+.action-btn a{
+    text-decoration:none;
+}
