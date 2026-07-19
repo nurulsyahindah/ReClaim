@@ -1,4 +1,4 @@
-**# ReClaim**
+## ReClaim (Lost & Found)
 
 ReClaim is a web-based lost and found system developed to help users report, search, and claim lost items.
 
@@ -31,7 +31,33 @@ ReClaim is a web-based lost and found system developed to help users report, sea
 - CakePHP 5
 - MySQL
 
+--------------------------------------------------------------------------------------------
 
+## User Roles
+
+### User
+
+Users can:
+- Submit reports.
+- Search for items.
+- Claim items.
+- Track report status.
+
+### Admin
+
+Administrators can:
+- Access the admin dashboard.
+- Manage reports.
+- Manage claims.
+- Manage users.
+- Manage categories.
+
+Admin needs to register using @reclaim to be able to connect with the admin page.
+```text
+@reclaim.com
+```
+
+---
 Open:
 
 ```text
